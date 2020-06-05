@@ -40,6 +40,7 @@
     height: 3vw;
     text-align: center;
     width: 20vw;
+    font-size: 2vw;
 }
 .buttons {
     display: grid;
